@@ -1,7 +1,8 @@
-# Welcome to the beautiful world of Pandas.
-You can think of pandas as being very similar to Excel, except it is more powerful and flexible, and enables you to work with larger data sets.
+Exploring the Power of Pandas for Data Exploration
 
-Wes McKinney, creator of Pandas, has this to say about why he developed it:
+Project Motivation
+I wanted to explore the advantages of using pandas to perform data exploration compared to using excel.
+
 
 > I had a distinct set of requirements that were not well-addressed by any single tool at my disposal:
  * Data structures with labeled axes supporting automatic or explicit data alignment. This prevents common errors resulting from misaligned data and working with differently-indexed data coming from different sources
