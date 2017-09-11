@@ -1,7 +1,8 @@
 Exploring the Power of Pandas for Data Exploration
 
 Project Motivation
-I wanted to explore the advantages of using pandas to perform data exploration compared to using excel.
+
+I wanted to explore the advantages of using pandas to perform data exploration compared to using excel. 
 
 
 > I had a distinct set of requirements that were not well-addressed by any single tool at my disposal:
